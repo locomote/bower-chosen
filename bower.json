@@ -36,12 +36,15 @@
     {
       "name": "Koen Punt",
       "url": "https://github.com/koenpunt"
+    },
+    {
+      "name": "Ben Morrall",
+      "url": "https://github.com/bmorrall"
     }
   ],
-  "homepage": "http://harvesthq.github.io/chosen/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/harvesthq/chosen"
+    "url": "https://github.com/locomote/chosen"
   },
   "dependencies": {
     "jquery": ">=1.4.4"

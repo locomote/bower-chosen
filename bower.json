@@ -1,5 +1,5 @@
 {
-  "name": "chosen",
+  "name": "chosen-mobile",
   "description": "Chosen is a JavaScript plugin that makes select boxes user-friendly. It is currently available in both jQuery and Prototype flavors.",
   "keywords": [
     "select",
@@ -9,8 +9,9 @@
     "input",
     "ui"
   ],
-  "homepage": "https://harvesthq.github.io/chosen/",
-  "license": "https://github.com/harvesthq/chosen/blob/master/LICENSE.md",
+  "version": "1.4.2",
+  "homepage": "https://github.com/locomote/chosen/",
+  "license": "https://github.com/locomote/chosen/blob/master/LICENSE.md",
   "authors": [
     {
       "name": "Patrick Filler",
